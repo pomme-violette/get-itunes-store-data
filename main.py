@@ -10,7 +10,7 @@ payload = {"term": "",
            "attribute": "",
            "callback": "",
            "limit": "",
-           "lang": "ja_JP",
+           "lang": "",
            "version": "",
            "explicit": "",
            }
